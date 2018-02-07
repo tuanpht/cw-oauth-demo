@@ -1,0 +1,14 @@
+{
+    "name": "it-4-life/cw-gh-bot",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tuan Pham",
+            "email": "tuanpht.online@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
