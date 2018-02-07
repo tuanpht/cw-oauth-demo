@@ -9,6 +9,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=7.0.0",
+        "chatwork/oauth2-chatwork": "^0.1.1"
     }
 }
